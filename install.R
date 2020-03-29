@@ -1,1 +1,1 @@
-install.packages(c("clusterSim"))
+install.packages(c("cluster,clusterSim"))
